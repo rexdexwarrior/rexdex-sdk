@@ -1,16 +1,16 @@
 {
-  "name": "@wanswap/sdk",
+  "name": "@rexdexwarrior/sdk",
   "license": "MIT",
   "version": "3.0.20",
-  "description": "🛠 An SDK for building applications on top of WanSwap.",
+  "description": "🛠 An SDK for building applications on top of RexDex.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/wanswap/wanswap-sdk.git",
+  "repository": "https://github.com/rexdexwarrior/rexdex-sdk.git",
   "keywords": [
-    "wanswap",
+    "rexdex",
     "wanchain"
   ],
   "module": "dist/sdk.esm.js",
